@@ -1,0 +1,4 @@
+ng new moviehood
+ng serve
+ng g component my-component
+ng g component product
